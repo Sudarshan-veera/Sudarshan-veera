@@ -71,6 +71,6 @@ Development Tools: VS Code, PyCharm, GitHub, Arduino IDE, ESP-IDF, STM32 CubeIDE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="assets/logo-illustrator.png" width="40" height="40" alt="Illustrator"/>
   <img src="assets/logo-photoshop.png" width="40" height="40" alt="Photoshop"/>
-  <img src="assets/logo-altium.png" width="90" alt="Altium Designer"/>
+  <img src="assets/logo-altium.png" width="40" alt="Altium Designer"/>
   <img src="assets/logo-cst.png" width="40" height="40" alt="CST Studio Suite"/>
 </p>
