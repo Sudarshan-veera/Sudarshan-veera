@@ -28,11 +28,11 @@ Engineered Layer 2/3 protocols for 5G core signaling, including NGAP (3GPP TS 38
 
 Currently pursuing the academic-level CCNA course, studying **Module 3: CCNA — Enterprise Networking, Security, and Automation**.
 
-- <img src="https://img.shields.io/badge/-A5CD39?style=flat-square&logo=altiumdesigner&logoColor=black" width="20"/> **Altium – PCB Design** (2026) — [Certificate](assets/altium-pcb-design-2026.pdf)
-- <img src="https://img.shields.io/badge/-A435F0?style=flat-square&logo=udemy&logoColor=white" width="20"/> **Verilog HDL: VLSI Hardware Design Comprehensive Masterclass** – Udemy (2026) — [Certificate](https://www.udemy.com/certificate/UC-31514106-8c25-4d97-9ec2-4c72bcf5e9f2/)
-- <img src="https://img.shields.io/badge/-1B3C6E?style=flat-square" width="20"/> **NPTEL Data Science with Python** (2025) — [Certificate](assets/nptel-data-science-python-2025.jpeg)
-- <img src="https://img.shields.io/badge/-0076A8?style=flat-square&logo=matlab&logoColor=white" width="20"/> **MATLAB Onramp** (2025) — [Certificate](assets/matlab-onramp-2025.pdf)
-- <img src="https://img.shields.io/badge/-0076A8?style=flat-square&logo=matlab&logoColor=white" width="20"/> **Simulink Onramp** (2026) — [Certificate](assets/simulink-onramp-2026.pdf)
+- <img src="assets/logo-altium.png" width="20"/> **Altium – PCB Design** (2026) — [Certificate](assets/altium-pcb-design-2026.pdf)
+- <img src="https://cdn.simpleicons.org/udemy/A435F0" width="20"/> **Verilog HDL: VLSI Hardware Design Comprehensive Masterclass** – Udemy (2026) — [Certificate](https://www.udemy.com/certificate/UC-31514106-8c25-4d97-9ec2-4c72bcf5e9f2/)
+- <img src="assets/logo-swayam.png" width="20"/> **NPTEL Data Science with Python** (2025) — [Certificate](assets/nptel-data-science-python-2025.jpeg)
+- <img src="assets/logo-matlab.png" width="20"/> **MATLAB Onramp** (2025) — [Certificate](assets/matlab-onramp-2025.pdf)
+- <img src="assets/logo-matlab.png" width="20"/> **Simulink Onramp** (2026) — [Certificate](assets/simulink-onramp-2026.pdf)
 - <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" width="20"/> **CCNA – Academic Certification** (2026) — [Certificate](https://www.credly.com/earner/earned/share/7b35ad95-0864-42d5-886c-295173bf8ae8)
 
 ## Completed Projects
@@ -69,8 +69,8 @@ Development Tools: VS Code, PyCharm, GitHub, Arduino IDE, ESP-IDF, STM32 CubeIDE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5CD39?style=for-the-badge&logo=altiumdesigner&logoColor=black" alt="Altium Designer"/>
-  <img src="https://img.shields.io/badge/CST%20Studio%20Suite-2025-003366?style=for-the-badge" alt="CST Studio Suite 2025"/>
+  <img src="assets/logo-illustrator.png" width="40" height="40" alt="Illustrator"/>
+  <img src="assets/logo-photoshop.png" width="40" height="40" alt="Photoshop"/>
+  <img src="assets/logo-altium.png" width="90" alt="Altium Designer"/>
+  <img src="assets/logo-cst.png" width="40" height="40" alt="CST Studio Suite"/>
 </p>
