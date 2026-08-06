@@ -9,13 +9,31 @@ Electronics and Communication Engineering student at College of Engineering, Gui
   <a href="https://www.reddit.com/user/StudentKind8/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
-Email: sudarshan060617@gmail.com
-LinkedIn: https://linkedin.com/in/sudarshan-veera8
 Location: Chennai, Tamil Nadu, India
 
 ## Experience
 **BaSig Wireless — Internship (2026)**
 Engineered Layer 2/3 protocols for 5G core signaling, including NGAP (3GPP TS 38.413) and NAS (3GPP TS 24.501) message codecs in Python with APER encoding validation. Achieved bit-exact protocol compliance through empirical encoding analysis and Wireshark-based debugging.
+
+## Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/share/7b35ad95-0864-42d5-886c-295173bf8ae8" target="_blank">
+    <img src="assets/ccna-intro-networks.png" width="150" alt="CCNA: Introduction to Networks"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/share/7b35ad95-0864-42d5-886c-295173bf8ae8" target="_blank">
+    <img src="assets/ccna-switching-routing.png" width="150" alt="CCNA: Switching, Routing & Wireless Essentials"/>
+  </a>
+</p>
+
+Currently pursuing the academic-level CCNA course, studying **Module 3: CCNA — Enterprise Networking, Security, and Automation**.
+
+- <a href="assets/altium-pcb-design-2026.pdf" target="_blank"><img src="https://img.shields.io/badge/Altium%20Designer-A5CD39?style=flat-square&logo=altiumdesigner&logoColor=white"/></a> **Altium – PCB Design** (2026)
+- <a href="https://www.udemy.com/certificate/UC-31514106-8c25-4d97-9ec2-4c72bcf5e9f2/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/></a> **Verilog HDL: VLSI Hardware Design Comprehensive Masterclass** – Udemy (2026)
+- <a href="assets/nptel-data-science-python-2025.jpeg" target="_blank"><img src="https://img.shields.io/badge/NPTEL-1B3C6E?style=flat-square"/></a> **NPTEL Data Science with Python** (2025)
+- <a href="assets/matlab-onramp-2025.pdf" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white"/></a> **MATLAB Onramp** (2025)
+- <a href="assets/simulink-onramp-2026.pdf" target="_blank"><img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=matlab&logoColor=white"/></a> **Simulink Onramp** (2026)
+- <a href="https://www.credly.com/earner/earned/share/7b35ad95-0864-42d5-886c-295173bf8ae8" target="_blank"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></a> **CCNA – Academic Certification** (2026)
 
 ## Completed Projects
 **5G NGAP/NAS Codecs**
@@ -36,7 +54,7 @@ Verilog-based digital design developed for submission to Tiny Tapeout, an educat
 
 ## Technical Skills
 Languages: Python (NumPy, Pandas, Matplotlib, Seaborn), C, C++ (DSA)
-Tools: MATLAB, Simulink, CST Studio Suite, GNU Radio, LTspice, Altium Designer, NS-3, Wireshark, Cisco Packet Tracer
+Tools: MATLAB, Simulink, CST Studio Suite, GNU Radio, LTspice, Altium Designer, NS-3, Wireshark, Cisco Packet Tracer, Adobe Illustrator
 Development Tools: VS Code, PyCharm, GitHub, Arduino IDE, ESP-IDF, STM32 CubeIDE, Docker, Linux
 
 ### 💻 Languages and Tools
@@ -51,5 +69,8 @@ Development Tools: VS Code, PyCharm, GitHub, Arduino IDE, ESP-IDF, STM32 CubeIDE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5CD39?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/CST%20Studio%20Suite-2025-003366?style=for-the-badge" alt="CST Studio Suite 2025"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </p>
